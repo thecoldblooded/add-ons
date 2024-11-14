@@ -1,1 +1,1 @@
-# add-ons
+kasm kullanarak, terminalden windows çalıştırma
